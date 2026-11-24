@@ -1,0 +1,10 @@
+{
+  "name": "@acme/auth-client",
+  "version": "2.1.0",
+  "dependencies": {
+    "jsonwebtoken": "9.0.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
